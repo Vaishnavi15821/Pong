@@ -1,10 +1,11 @@
 # Pong
 
 ## Requirements :
-### IDE like VSCode
-### Install LÖVE2D
+### IDE for example VSCode
+### Install lua programming language
+### Install LÖVE2D Game Engine
 ### Add LÖVE2D to the path
-### Alt+L shortcut to run the code on VSCode
+### Alt+L shortcut to run the code through VSCode on LÖVE2D
 #### Know how to get started with LÖVE2D [link](https://love2d.org/wiki/Getting_Started)
 
 ## Coded by [Vaishnavi Sinha](https://github.com/Vaishnavi15821).
