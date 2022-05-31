@@ -1,7 +1,7 @@
 # Pong
 
 ## Requirements :
-### IDE for example VSCode
+### IDE (for example VSCode)
 ### Install lua programming language
 ### Install LÖVE2D Game Engine
 ### Add LÖVE2D to the path
